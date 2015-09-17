@@ -1,3 +1,3 @@
-csz3824 in Shanghai
+csz3824 first use git in Shanghai
 
 		2015/9/17
